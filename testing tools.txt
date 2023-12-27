@@ -1,0 +1,48 @@
+https://www.youtube.com/watch?v=Wgyirv9juFI&list=PLUDwpEzHYYLunEaoMz6Ucn7NXfZ3A0_bf&index=1
+Started to learn about --Testing tools--
+----------
+test management tool
+bug tracking tool
+
+1)AGile tools--Jira,versionONE, etc
+jira is the test managemet tool used for testing and developed by Atlassian 
+it is paid softaware
+it is used wth the teams ex:developer,tester,product owner etc
+it is used with the help of cloud
+ 
+ Jira -->Agile management tool
+installa and configure the jira
+
+Agile scrum activities
+--------------------
+first create the project using project session
+then add the team members
+started to create a task
+notes---)backlogs are created vy thr PO W1,W2
+notes---)to check the scrum board day by day in scrum master
+
+(W1)creating backlogs --> like
+backlogs->epic->stories
+in home page click on backlog then create version and create epic 
+notes---)epic means feature scenarion comes undr the multiple story or issues in this notes 
+epics means collection of stories just storing like the scenario
+
+(W2)creating Stories --> like
+addictin particular stories in the epic
+notes---)story means the test cases of the scenarion
+after the epic is created 
+click on create the issue is showed
+the add the title in summary and test case in the describtion add the priority in this story
+
+(W3)creating sprint in jira  --> like
+notes ---)A sprint is a fixed time period where teams complete work from their product backlog
+in the backlog page click on create sprint 
+only drag the story into that sprint then the scrumboard or story board display see the process of the sprint
+
+(W4)adding the task in the sprint --> like
+in the sprint click on the create subtask creating the task
+to drag the task into next level in the creation page their is a list box as todo change their
+
+
+
+
